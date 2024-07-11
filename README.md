@@ -1,4 +1,4 @@
-# RemoteFunctionPatcher
+# Remote Function Patcher
 Patch (block) whatever function you want in a remote process.
 
 Add the following assembler instructions in the first memory address of the victim function:
